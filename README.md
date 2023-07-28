@@ -1,2 +1,2 @@
 # Store-Sales-Forecasting
-Time-series forecasting for Rossmann daily sales with ARIMA, exponential smoothing, linear regression models.
+**For this project, I used Rossmann store sales data on Kaggle to forecast daily sales for more than 800 stores over the upcoming 6 weeks. I compared the performance of different models, including seasonal ARIMA with exogenous variables, exponential smoothing, and linear regression. Both seasonal ARIMA and linear regression models were able to achieve good results with MAPE of less than 10%. Exponential smoothing didn't perform well, which is probably due to the lack of obvious trends in sales. Please refer to the notebook for modeling process.**
